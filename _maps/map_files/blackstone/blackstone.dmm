@@ -13855,6 +13855,10 @@
 	},
 /turf/open/floor/rogue/blocks,
 /area/rogue/under/town/basement)
+"tho" = (
+/obj/structure/closet/dirthole/grave,
+/turf/open/transparent/openspace,
+/area/rogue/outdoors/mountains)
 "thB" = (
 /obj/machinery/light/rogue/hearth,
 /turf/open/floor/rogue/tile,
@@ -389161,7 +389165,7 @@ erZ
 erZ
 erZ
 erZ
-erZ
+tho
 erZ
 erZ
 erZ
@@ -397993,7 +397997,7 @@ erZ
 erZ
 erZ
 erZ
-erZ
+tho
 erZ
 erZ
 erZ
